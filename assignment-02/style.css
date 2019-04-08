@@ -1,0 +1,21 @@
+input[type=submit] {
+  background-color: #000000;
+  color: white;
+  padding: 10px 32px;
+  text-align: center;
+  font-size: 1.2rem;
+  margin: 4px 10px;
+  cursor: pointer;
+  border-radius: 7px;
+}
+
+p {
+  margin: 15px 10px;
+  font-size: 1.4rem;
+}
+
+input[type=text] {
+  margin-left: .5%;
+  padding: 10px;
+  font-size: 1.1rem;
+}
